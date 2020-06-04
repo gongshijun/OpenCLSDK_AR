@@ -1,3 +1,11 @@
+<!--
+ * @Description: Copyright(c) All rights reserved.
+ * @Company: YUSUR
+ * @Author: Shijun Gong
+ * @Date: 2020-05-18 15:21:44
+ * @LastEditors: Shijun Gong
+ * @LastEditTime: 2020-06-04 14:55:38
+--> 
 ## 官方资源
 
 主页：https://www.khronos.org/opencl/resources
@@ -10,6 +18,11 @@ https://github.com/KhronosGroup/Khronosdotorg
 ## 开源实现
 
 https://github.com/zuzuf/freeocl
+
+经过调试，我们发现freeocl内部没有实现完成，代码可以作为参考。
+考虑到完成，工程目录结构，介意参考Intel开源实现
+
+https://github.com/intel/compute-runtime
 
 ## 头文件
 
